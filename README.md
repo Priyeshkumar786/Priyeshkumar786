@@ -81,9 +81,10 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyeshkumar786&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats!
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyeshkumar786&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshkumar786&layout=compact&theme=tokyonight)
+
 
 ---
 
